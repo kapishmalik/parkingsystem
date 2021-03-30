@@ -13,7 +13,7 @@
 ##### Dockerized setup
 - Build using following command -> docker build -t parking-lot-take-home .
 - Copy input file to the project directory
-- Run using following command -> docker run -v <absolute path to project directory>:/assignment parking-lot-take-home parking_lot <input file name>
+- Run using following command -> docker run -v <absolute path to project directory>:/assignment parking-lot-take-home parking_lot.sh relative_path_to_input_file
  ```Example:   docker run -v /Users/kapish.m/workspace/parkingsystem:/assignment parking-lot-take-home parking_lot.sh input.txt```
 
 ### Notes
