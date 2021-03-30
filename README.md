@@ -5,7 +5,7 @@
  - Maven 3.x
 
 ### Setup
-##### LocalSetup
+##### Local setup
  - Install JDK 1.8. Follow - https://openjdk.java.net/install/
  - Install maven 3.6.3. Follow - https://maven.apache.org/install.html
  - Run following command to execute the code - ./parking_lot path_to_file
